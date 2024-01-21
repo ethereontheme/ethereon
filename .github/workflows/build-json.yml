@@ -1,0 +1,29 @@
+name: Build and commit generated files
+
+on: push
+
+jobs:
+  build-base-json:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        id: install_dep
+        run: npm install
+      - name: Build json
+        id: build_json
+        run: npm run build
+      - name: Commit base.json
+        id: commit_base_json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update base.json
+          file_pattern: src/theme.css
+          add_option: --force
