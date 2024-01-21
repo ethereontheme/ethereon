@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "less-to-json": "^1.2.0"
+  }
+}
