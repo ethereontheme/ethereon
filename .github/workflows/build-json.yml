@@ -27,5 +27,5 @@ jobs:
           commit_user_name: gitflow
           commit_message: Update base.json
           file_pattern: src/base.json
-          add_option: -f
+          add_options: --force
           skip_dirty_check: true
