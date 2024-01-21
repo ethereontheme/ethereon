@@ -24,7 +24,8 @@ jobs:
         id: commit_base_json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          commit_user_name: gitflow
           commit_message: Update base.json
           file_pattern: src/base.json
-          add_option: --force
+          add_option: -f
           skip_dirty_check: true
