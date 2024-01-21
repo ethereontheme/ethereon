@@ -27,3 +27,4 @@ jobs:
           commit_message: Update base.json
           file_pattern: src/base.json
           add_option: --force
+          skip_dirty_check: true
