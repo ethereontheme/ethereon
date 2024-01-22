@@ -1,371 +1,371 @@
 {
-    "color-ee-base-00": "#1d1f21",
-    "color-ee-base-05": "#27292b",
-    "color-ee-base-10": "#313234",
-    "color-ee-base-15": "#3b3c3e",
-    "color-ee-base-20": "#444648",
-    "color-ee-base-25": "#4e4f51",
-    "color-ee-base-30": "#58595b",
-    "color-ee-base-35": "#626365",
-    "color-ee-base-40": "#6c6c6e",
-    "color-ee-base-45": "#767678",
-    "color-ee-base-50": "#808082",
-    "color-ee-base-55": "#89898b",
-    "color-ee-base-60": "#939395",
-    "color-ee-base-65": "#9d9c9e",
-    "color-ee-base-70": "#a7a6a8",
-    "color-ee-base-75": "#b1b0b2",
-    "color-ee-base-80": "#bbb9bb",
-    "color-ee-base-85": "#c4c3c5",
-    "color-ee-base-90": "#cecdcf",
-    "color-ee-base-95": "#d8d6d8",
-    "color-ee-base-100": "#e2e0d2",
-    "color-teal-0": "#5E8D87",
-    "color-teal-1": "#BED1CF",
-    "color-teal-2": "#86A8A4",
-    "color-teal-3": "#3D766E",
-    "color-teal-4": "#255F57",
-    "color-yellow-0": "#E1D696",
-    "color-yellow-1": "#FFFAE7",
-    "color-yellow-2": "#FFF5CB",
-    "color-yellow-3": "#BCAB62",
-    "color-yellow-4": "#98863B",
-    "color-pink-0": "#AE7499",
-    "color-pink-1": "#E3CEDC",
-    "color-pink-2": "#CAA1BC",
-    "color-pink-3": "#914B79",
-    "color-pink-4": "#752E5C",
-    "color-orange-0": "#E1B596",
-    "color-orange-1": "#FFF1E7",
-    "color-orange-2": "#FFE1CB",
-    "color-orange-3": "#BC8762",
-    "color-orange-4": "#98623B",
-    "color-green-0": "#88BC7D",
-    "color-green-1": "#D9EBD5",
-    "color-green-2": "#B4D9AD",
-    "color-green-3": "#5F9D52",
-    "color-green-4": "#3F7F31",
-    "color-purple-0": "#766E9B",
-    "color-purple-1": "#CBC7D9",
-    "color-purple-2": "#9C97B7",
-    "color-purple-3": "#554B82",
-    "color-purple-4": "#3B3169",
-    "color-red-0": "#D99198",
-    "color-red-1": "#FBE4E6",
-    "color-red-2": "#F7C5CA",
-    "color-red-3": "#B65E67",
-    "color-red-4": "#933942",
-    "color-blue-0": "#687995",
-    "color-blue-1": "#C4CAD6",
-    "color-blue-2": "#909CB1",
-    "color-blue-3": "#465B7D",
-    "color-blue-4": "#2D4265",
-    "color-ee-base-00-rgb": [
+    "color_ee_base_00": "#1d1f21",
+    "color_ee_base_05": "#27292b",
+    "color_ee_base_10": "#313234",
+    "color_ee_base_15": "#3b3c3e",
+    "color_ee_base_20": "#444648",
+    "color_ee_base_25": "#4e4f51",
+    "color_ee_base_30": "#58595b",
+    "color_ee_base_35": "#626365",
+    "color_ee_base_40": "#6c6c6e",
+    "color_ee_base_45": "#767678",
+    "color_ee_base_50": "#808082",
+    "color_ee_base_55": "#89898b",
+    "color_ee_base_60": "#939395",
+    "color_ee_base_65": "#9d9c9e",
+    "color_ee_base_70": "#a7a6a8",
+    "color_ee_base_75": "#b1b0b2",
+    "color_ee_base_80": "#bbb9bb",
+    "color_ee_base_85": "#c4c3c5",
+    "color_ee_base_90": "#cecdcf",
+    "color_ee_base_95": "#d8d6d8",
+    "color_ee_base_100": "#e2e0d2",
+    "color_teal_0": "#5E8D87",
+    "color_teal_1": "#BED1CF",
+    "color_teal_2": "#86A8A4",
+    "color_teal_3": "#3D766E",
+    "color_teal_4": "#255F57",
+    "color_yellow_0": "#E1D696",
+    "color_yellow_1": "#FFFAE7",
+    "color_yellow_2": "#FFF5CB",
+    "color_yellow_3": "#BCAB62",
+    "color_yellow_4": "#98863B",
+    "color_pink_0": "#AE7499",
+    "color_pink_1": "#E3CEDC",
+    "color_pink_2": "#CAA1BC",
+    "color_pink_3": "#914B79",
+    "color_pink_4": "#752E5C",
+    "color_orange_0": "#E1B596",
+    "color_orange_1": "#FFF1E7",
+    "color_orange_2": "#FFE1CB",
+    "color_orange_3": "#BC8762",
+    "color_orange_4": "#98623B",
+    "color_green_0": "#88BC7D",
+    "color_green_1": "#D9EBD5",
+    "color_green_2": "#B4D9AD",
+    "color_green_3": "#5F9D52",
+    "color_green_4": "#3F7F31",
+    "color_purple_0": "#766E9B",
+    "color_purple_1": "#CBC7D9",
+    "color_purple_2": "#9C97B7",
+    "color_purple_3": "#554B82",
+    "color_purple_4": "#3B3169",
+    "color_red_0": "#D99198",
+    "color_red_1": "#FBE4E6",
+    "color_red_2": "#F7C5CA",
+    "color_red_3": "#B65E67",
+    "color_red_4": "#933942",
+    "color_blue_0": "#687995",
+    "color_blue_1": "#C4CAD6",
+    "color_blue_2": "#909CB1",
+    "color_blue_3": "#465B7D",
+    "color_blue_4": "#2D4265",
+    "color_ee_base_00_rgb": [
         29,
         31,
         33
     ],
-    "color-ee-base-05-rgb": [
+    "color_ee_base_05_rgb": [
         39,
         41,
         43
     ],
-    "color-ee-base-10-rgb": [
+    "color_ee_base_10_rgb": [
         49,
         50,
         52
     ],
-    "color-ee-base-15-rgb": [
+    "color_ee_base_15_rgb": [
         59,
         60,
         62
     ],
-    "color-ee-base-20-rgb": [
+    "color_ee_base_20_rgb": [
         68,
         70,
         72
     ],
-    "color-ee-base-25-rgb": [
+    "color_ee_base_25_rgb": [
         78,
         79,
         81
     ],
-    "color-ee-base-30-rgb": [
+    "color_ee_base_30_rgb": [
         88,
         89,
         91
     ],
-    "color-ee-base-35-rgb": [
+    "color_ee_base_35_rgb": [
         98,
         99,
         101
     ],
-    "color-ee-base-40-rgb": [
+    "color_ee_base_40_rgb": [
         108,
         108,
         110
     ],
-    "color-ee-base-45-rgb": [
+    "color_ee_base_45_rgb": [
         118,
         118,
         120
     ],
-    "color-ee-base-50-rgb": [
+    "color_ee_base_50_rgb": [
         128,
         128,
         130
     ],
-    "color-ee-base-55-rgb": [
+    "color_ee_base_55_rgb": [
         137,
         137,
         139
     ],
-    "color-ee-base-60-rgb": [
+    "color_ee_base_60_rgb": [
         147,
         147,
         149
     ],
-    "color-ee-base-65-rgb": [
+    "color_ee_base_65_rgb": [
         157,
         156,
         158
     ],
-    "color-ee-base-70-rgb": [
+    "color_ee_base_70_rgb": [
         167,
         166,
         168
     ],
-    "color-ee-base-75-rgb": [
+    "color_ee_base_75_rgb": [
         177,
         176,
         178
     ],
-    "color-ee-base-80-rgb": [
+    "color_ee_base_80_rgb": [
         187,
         185,
         187
     ],
-    "color-ee-base-85-rgb": [
+    "color_ee_base_85_rgb": [
         196,
         195,
         197
     ],
-    "color-ee-base-90-rgb": [
+    "color_ee_base_90_rgb": [
         206,
         205,
         207
     ],
-    "color-ee-base-95-rgb": [
+    "color_ee_base_95_rgb": [
         216,
         214,
         216
     ],
-    "color-ee-base-100-rgb": [
+    "color_ee_base_100_rgb": [
         226,
         224,
         226
     ],
-    "color-teal-0-rgb": [
+    "color_teal_0_rgb": [
         94,
         141,
         135
     ],
-    "color-teal-1-rgb": [
+    "color_teal_1_rgb": [
         190,
         209,
         207
     ],
-    "color-teal-2-rgb": [
+    "color_teal_2_rgb": [
         134,
         168,
         164
     ],
-    "color-teal-3-rgb": [
+    "color_teal_3_rgb": [
         61,
         118,
         110
     ],
-    "color-teal-4-rgb": [
+    "color_teal_4_rgb": [
         37,
         95,
         87
     ],
-    "color-yellow-0-rgb": [
+    "color_yellow_0_rgb": [
         225,
         198,
         150
     ],
-    "color-yellow-1-rgb": [
+    "color_yellow_1_rgb": [
         255,
         247,
         231
     ],
-    "color-yellow-2-rgb": [
+    "color_yellow_2_rgb": [
         255,
         237,
         203
     ],
-    "color-yellow-3-rgb": [
+    "color_yellow_3_rgb": [
         188,
         156,
         98
     ],
-    "color-yellow-4-rgb": [
+    "color_yellow_4_rgb": [
         152,
         119,
         59
     ],
-    "color-pink-0-rgb": [
+    "color_pink_0_rgb": [
         174,
         116,
         153
     ],
-    "color-pink-1-rgb": [
+    "color_pink_1_rgb": [
         227,
         206,
         220
     ],
-    "color-pink-2-rgb": [
+    "color_pink_2_rgb": [
         202,
         161,
         188
     ],
-    "color-pink-3-rgb": [
+    "color_pink_3_rgb": [
         145,
         75,
         121
     ],
-    "color-pink-4-rgb": [
+    "color_pink_4_rgb": [
         117,
         46,
         92
     ],
-    "color-orange-0-rgb": [
+    "color_orange_0_rgb": [
         225,
         181,
         150
     ],
-    "color-orange-1-rgb": [
+    "color_orange_1_rgb": [
         255,
         241,
         231
     ],
-    "color-orange-2-rgb": [
+    "color_orange_2_rgb": [
         255,
         225,
         203
     ],
-    "color-orange-3-rgb": [
+    "color_orange_3_rgb": [
         188,
         135,
         98
     ],
-    "color-orange-4-rgb": [
+    "color_orange_4_rgb": [
         152,
         98,
         59
     ],
-    "color-green-0-rgb": [
+    "color_green_0_rgb": [
         136,
         188,
         125
     ],
-    "color-green-1-rgb": [
+    "color_green_1_rgb": [
         217,
         235,
         213
     ],
-    "color-green-2-rgb": [
+    "color_green_2_rgb": [
         180,
         217,
         173
     ],
-    "color-green-3-rgb": [
+    "color_green_3_rgb": [
         95,
         157,
         82
     ],
-    "color-green-4-rgb": [
+    "color_green_4_rgb": [
         63,
         127,
         49
     ],
-    "color-purple-0-rgb": [
+    "color_purple_0_rgb": [
         118,
         110,
         155
     ],
-    "color-purple-1-rgb": [
+    "color_purple_1_rgb": [
         203,
         199,
         217
     ],
-    "color-purple-2-rgb": [
+    "color_purple_2_rgb": [
         156,
         151,
         183
     ],
-    "color-purple-3-rgb": [
+    "color_purple_3_rgb": [
         85,
         75,
         130
     ],
-    "color-purple-4-rgb": [
+    "color_purple_4_rgb": [
         59,
         49,
         105
     ],
-    "color-red-0-rgb": [
+    "color_red_0_rgb": [
         217,
         145,
         152
     ],
-    "color-red-1-rgb": [
+    "color_red_1_rgb": [
         251,
         228,
         230
     ],
-    "color-red-2-rgb": [
+    "color_red_2_rgb": [
         247,
         197,
         202
     ],
-    "color-red-3-rgb": [
+    "color_red_3_rgb": [
         182,
         94,
         103
     ],
-    "color-red-4-rgb": [
+    "color_red_4_rgb": [
         147,
         57,
         66
     ],
-    "color-blue-0-rgb": [
+    "color_blue_0_rgb": [
         104,
         121,
         149
     ],
-    "color-blue-1-rgb": [
+    "color_blue_1_rgb": [
         196,
         202,
         214
     ],
-    "color-blue-2-rgb": [
+    "color_blue_2_rgb": [
         144,
         156,
         177
     ],
-    "color-blue-3-rgb": [
+    "color_blue_3_rgb": [
         70,
         91,
         125
     ],
-    "color-blue-4-rgb": [
+    "color_blue_4_rgb": [
         45,
         66,
         101
     ],
-    "color-teal-0-h": 174,
-    "color-teal-0-s": "20%",
-    "color-teal-0-l": "48%"
+    "color_teal_0_h": 174,
+    "color_teal_0_s": "20%",
+    "color_teal_0_l": "48%"
 }
