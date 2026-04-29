@@ -1,6 +1,17 @@
 # ethereon
 Base repository of colors
 
+## Brand Assets
+
+<img src="assets/icon.png" width="128" height="128" alt="Ethereon logo">
+
+Canonical logo assets live here so every Ethereon theme repository can reuse the same mark.
+
+- SVG source: `assets/logo.svg`
+- PNG icon: `assets/icon.png`
+- Raw SVG URL: `https://raw.githubusercontent.com/ethereontheme/ethereon/main/assets/logo.svg`
+- Raw PNG URL: `https://raw.githubusercontent.com/ethereontheme/ethereon/main/assets/icon.png`
+
 ## Color Samples
 
 ![](samples/teal.png)

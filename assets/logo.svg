@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Ethereon logo</title>
+  <desc id="desc">A geometric Ethereon monogram using the theme palette: teal, blue, green, and a small warm highlight on charcoal.</desc>
+  <rect width="256" height="256" rx="32" fill="#1d1f21"/>
+  <path d="M56 46h38v172H56V46Z" fill="#255F57"/>
+  <path d="M94 46h106v38H94V46Z" fill="#5E8D87"/>
+  <path d="M94 131h84v38H94v-38Z" fill="#86A8A4"/>
+  <path d="M94 180h106v38H94v-38Z" fill="#687995"/>
+  <path d="M178 84h22v47h-22V84Z" fill="#465B7D"/>
+  <path d="M178 131h22v49h-22v-49Z" fill="#687995"/>
+  <path d="M56 46h38v38H56V46Z" fill="#3D766E"/>
+  <path d="M56 180h38v38H56v-38Z" fill="#88BC7D"/>
+  <path d="M94 84h84v47H94V84Z" fill="#27292b"/>
+  <path d="M94 169h84v11H94v-11Z" fill="#27292b"/>
+  <path d="M180 52h14v26h-14V52Z" fill="#E1D696"/>
+  <path d="M180 186h14v26h-14v-26Z" fill="#E1D696"/>
+</svg>
